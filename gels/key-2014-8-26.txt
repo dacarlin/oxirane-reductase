@@ -1,0 +1,25 @@
+﻿2014-8-26
+
+gel	lane	sample
+1	1	ladder (kalidescope)
+1	2	3ajr
+1	3	fald
+1	4	1lua
+1	5	3j-2
+1	6	2azn
+1	7	2i3g
+1	8	2ag8
+1	9	3zhb
+1	10	cmFDH
+1	11	1lc3
+1	12	2g5c
+1	13	1yjq
+1	14	rYP
+1	15	1sny
+2	1	3jyo
+2	2	ladder
+2	3	3orf
+2	4	3j-3
+2	5	1vlj
+2	6	2v6g
+2	7	bagel
