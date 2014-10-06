@@ -1,0 +1,14 @@
+ala89his+met157ala+thr161ser 
+ala89his+met157ala
+ala89his 
+
+ala89his+met110asn+thr161ser 
+ala89his+ser255thr
+ala89his+gly90ala
+ala89his+gly90val
+
+met110ala+gly159ile+thr161asp+ser164tyr+cys251arg 
+met110ala+thr161asp+cys251arg
+met110ala+thr161asp
+
+
