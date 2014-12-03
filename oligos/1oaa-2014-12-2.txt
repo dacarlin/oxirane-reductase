@@ -1,0 +1,11 @@
+
+cys160ser+cys172ser+leu105his
+cys160ser+cys172ser+leu105his+val108ile 
+cys160ser+cys172ser+leu105his+val108ile+leu223met 
+cys160ser+cys172ser+leu159trp+leu223his+leu226trp 
+cys160ser+cys172ser+leu223his+leu226trp 
+leu105his 
+leu105his+val108ile 
+leu105his+val108ile+leu223met 
+leu159trp+leu223his+leu226trp 
+leu223his+leu226trp 

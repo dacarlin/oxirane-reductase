@@ -1,0 +1,25 @@
+<ROSETTASCRIPTS>
+<SCOREFXNS>
+</SCOREFXNS>
+<TASKOPERATIONS>
+</TASKOPERATIONS>
+<FILTERS>
+</FILTERS>
+<MOVERS>
+  <StartFrom name=start chain=Y>
+    <Coordinates x=32.6 y=23.2 z=55.7 />
+  </StartFrom>
+  <PredesignPerturbMover name=predock 
+    trans_magnitude=0.7
+    rot_magnitude=30
+    dock_trials=5
+  />
+</MOVERS>
+<APPLY_TO_POSE>
+</APPLY_TO_POSE>
+<PROTOCOLS>
+  <add mover=start/>
+  <add mover=predock/>
+</PROTOCOLS>
+<OUTPUT />
+</ROSETTASCRIPTS>

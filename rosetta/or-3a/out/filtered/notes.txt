@@ -1,0 +1,7 @@
+# Out: 3ajr-273-his_0003 ile113ala+phe116his+phe137his+trp273his
+# These are a little iffy due to a big backbone shift
+
+ile113ala+phe137his+trp273his #c1
+ile113ser+trp273his #c2
+
+#Out: 3ajr-273-his_0001, ile113thr+phe116his+phe137his+ile269ala+trp273his

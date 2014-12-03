@@ -1,0 +1,20 @@
+#1oaa-105-his_0001 (leu105his)
+leu105his #simple out, c1
+leu105his+val108ile #keeps his rotamer on shake! c2
+leu105his+val108ile+leu223met #trying for oxi packing, c3
+
+#1oaa-223-his_0005.pdb (leu223his)
+#geometry looks OK but unlikely h rotamer 
+leu223his+leu226trp #enforces his rotamer but worsens geometry, c1
+leu159trp+leu223his+leu226trp #packing oxi a1 
+
+# 1oaa-211-his_0003.pdb (gln207ala+arg211his+leu223gly)
+# not great 
+#  everything with the two cys mutated to ser
+
+cys160ser+cys172ser+leu105his
+cys160ser+cys172ser+leu105his+val108ile #keeps his rotamer on shake! c2
+cys160ser+cys172ser+leu105his+val108ile+leu223met #trying for oxi packing, c3
+cys160ser+cys172ser+leu223his+leu226trp #enforces his rotamer but worsens geometry, c1
+cys160ser+cys172ser+leu159trp+leu223his+leu226trp #packing oxi a1 
+

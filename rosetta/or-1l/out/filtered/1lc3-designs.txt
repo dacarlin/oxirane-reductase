@@ -1,0 +1,4 @@
+tyr97phe+glu126his+ser170ala
+glu123ala+val125ala+ile249his
+glu126his+ser170ala+tyr97phe
+glu126his+ser170ala

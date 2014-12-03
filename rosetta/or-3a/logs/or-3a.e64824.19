@@ -1,0 +1,12 @@
+
+ERROR: Failed to report structure features for:
+	protocol_id: '3'
+	batch name: 'features'
+	batch description: ''
+	batch_id: '3'
+Error Message:
+sqlite3:database is locked
+
+ERROR:: Exit from: src/protocols/features/ReportToDB.cc line: 825
+terminate called after throwing an instance of 'cppdb::cppdb_error'
+  what():  sqlite3:cannot rollback - no transaction is active

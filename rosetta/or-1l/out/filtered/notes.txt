@@ -1,0 +1,11 @@
+# Output from 1lc3-126-his_0001
+# 
+
+glu126his+ser170ala+tyr97phe #a1, justin's suggestion
+
+#Output from 1lc3-249-his_0004
+# glu123ala+val125pro+ile249his rosetta out (gross)
+
+ser170ala+glu126his+tyr97phe #c1
+glu123ala+val125ala+ile249his # c2, iffy, not great nax-oxi geom
+glu126his+ser170gly #c3

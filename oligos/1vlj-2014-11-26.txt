@@ -1,0 +1,4 @@
+asn153ser+ser168his
+asn153ala+ser168his+arg272lys+lys374arg
+asn153ala+ser168his
+trp268his

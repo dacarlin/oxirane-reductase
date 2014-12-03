@@ -1,0 +1,1 @@
+relax.default.macosclangrelease -in:file:s 1o-nax.pdb -relax:constrain_relax_to_start_coords 1 -extra_res_fa NAX.params -show_simulation_in_pymol 1 -relax:jump_move false -relax:coord_constrain_sidechains 1 

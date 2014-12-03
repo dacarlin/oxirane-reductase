@@ -1,0 +1,33 @@
+<ROSETTASCRIPTS>
+<SCOREFXNS>
+<myscore weights=talaris2013_cst.wts/>
+</SCOREFXNS>
+<TASKOPERATIONS>
+  <RestrictToRepacking name=restrict/>
+</TASKOPERATIONS>
+<FILTERS>
+</FILTERS>
+<MOVERS>
+
+<StartFrom name=start chain=Y>
+  <Coordinates x=-7 y=-12 z=20 />
+</StartFrom>
+
+<PredesignPerturbMover name=predock 
+  trans_magnitude=0.7
+  rot_magnitude=30
+  dock_trials=99
+/>
+
+<FastRelax name=relax task_operations=restrict />
+
+</MOVERS>
+<APPLY_TO_POSE>
+</APPLY_TO_POSE>
+<PROTOCOLS>
+  <add mover=relax/>
+  <add mover=start/>
+  <add mover=predock/>
+</PROTOCOLS>
+<OUTPUT />
+</ROSETTASCRIPTS>

@@ -1,0 +1,11 @@
+tyr171ser+tyr181met+met185his+lys189met 
+tyr171ser+tyr181met+met185his 
+tyr171ser+tyr181his+met185his 
+tyr171ser+tyr181his 
+ala121thr+tyr171ala+tyr181glu+met185glu+ile227lys+lys229tyr 
+tyr171ala+tyr181glu 
+ala121thr+tyr171ser+tyr181asp+lys229tyr 
+tyr171ser+tyr181asp 
+tyr171ala+his172trp+ala173asp+val178asn+tyr181ser+ser215asp 
+tyr171ala+ala173asp+val178asn+tyr181ser 
+
